@@ -5,6 +5,10 @@ Please cite the following paper if you are using this code.
 
 A. Quadir, M. Sajid, M. Tanveer (2024). "One Class Restricted Kernel Machines, 31st International Conference on Neural Information Processing (ICONIP), 2024".
 
+Paper Link: https://doi.org/10.1007/978-981-96-6954-7_17
+
+Arxiv Link: https://doi.org/10.48550/arXiv.2502.10443
+
 BibTex
 ------
 ```
